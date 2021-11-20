@@ -1,0 +1,10 @@
+npm run start:dev
+
+> nest generate module messages
+> nest generate controller messages/messages --flat
+messages/messages = create class 'messages' inside teh messages folder
+--flat = don't create new folder inside
+
+#Extension REST Client
+> file: requests.http
+
