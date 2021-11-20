@@ -7,9 +7,9 @@ POST http://localhost:3000/messages
 content-type: application/json
 
 {
-  "content": "2nd cur"
+  "content": "Message after Dependency Injection"
 }
 
 
 ### Get a certain message
-GET http://localhost:3000/messages/1354
+GET http://localhost:3000/messages/304
